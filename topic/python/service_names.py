@@ -1,0 +1,5 @@
+auth_service_name = "DMS.SMS.v1.service.auth"
+outing_service_name = "DMS.SMS.v1.service.outing"
+club_service_name = "DMS.SMS.v1.service.club"
+schedule_service_name = "DMS.SMS.v1.service.schedule"
+announcement_service_name = "DMS.SMS.v1.service.announcement"
