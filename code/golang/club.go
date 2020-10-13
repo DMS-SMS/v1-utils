@@ -11,4 +11,7 @@ const (
 
 	// GetRecruitmentUUIDWithClubUUID
 	ThereIsNoCurrentRecruitment = -1601
+	
+	// GetClubUUIDWithLeaderUUID
+	ThereIsNoClubWithThatLeaderUUID = -1611
 )
