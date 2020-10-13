@@ -8,4 +8,7 @@ const (
 	ClubNameDuplicate = -1504
 	ClubLocationDuplicate = -1505
 	ClubMemberDuplicate = -1506
+
+	// GetRecruitmentUUIDWithClubUUID
+	ThereIsNoCurrentRecruitment = -1601
 )
