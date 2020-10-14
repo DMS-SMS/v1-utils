@@ -23,4 +23,7 @@ const (
 	// AddClubMember
 	ClubMemberAlreadyExist = -1701
 	NotFoundStudentNoExist = -1722
+
+	// DeleteClubMember
+	ClubMemberNoExist = -1723
 )
