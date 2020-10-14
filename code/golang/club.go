@@ -18,9 +18,9 @@ const (
 	// Common code in club leader service
 	ForbiddenNotStudentOrAdminUUID = -1711
 	ForbiddenNotClubLeader = -1712
-	NotFoundClubNotExists = -1721
+	NotFoundClubNoExist = -1721
 
 	// AddClubMember
-	ThatUUIDAlreadyExistsAsMember = -1701
-	NotFoundStudentNotExist = -1722
+	ClubMemberAlreadyExist = -1701
+	NotFoundStudentNoExist = -1722
 )
