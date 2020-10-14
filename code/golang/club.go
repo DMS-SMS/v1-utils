@@ -25,5 +25,5 @@ const (
 	NotFoundStudentNoExist = -1722
 
 	// DeleteClubMember
-	ClubMemberNoExist = -1723
+	NotFoundClubMemberNoExist = -1723
 )
