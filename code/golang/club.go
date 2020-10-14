@@ -15,10 +15,15 @@ const (
 	// GetClubUUIDWithLeaderUUID
 	ThereIsNoClubWithThatLeaderUUID = -1611
 
-	// AddClubMember
-	ThatUUIDAlreadyExistsAsMember = -1701
+	// Common code in club leader service
 	ForbiddenNotStudentOrAdminUUID = -1711
 	ForbiddenNotClubLeader = -1712
-	NotFoundClubNotExists = -1721
-	NotFoundStudentNotExist = -1722
+	NotFoundClubNoExist = -1721
+
+	// AddClubMember
+	ClubMemberAlreadyExist = -1701
+	NotFoundStudentNoExist = -1722
+
+	// DeleteClubMember
+	ClubMemberNoExist = -1723
 )
