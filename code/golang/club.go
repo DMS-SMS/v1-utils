@@ -14,4 +14,11 @@ const (
 	
 	// GetClubUUIDWithLeaderUUID
 	ThereIsNoClubWithThatLeaderUUID = -1611
+
+	// AddClubMember
+	ThatUUIDAlreadyExistsAsMember = -1701
+	ForbiddenNotStudentOrAdminUUID = -1711
+	ForbiddenNotClubLeader = -1712
+	NotFoundClubNotExists = -1721
+	NotFoundStudentNotExist = -1722
 )
