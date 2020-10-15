@@ -33,4 +33,7 @@ const (
 
 	// DeleteClubWithUUID
 	RecruitmentInProgressExist = -1901
+
+	// RegisterRecruitment
+	RecruitmentInProgressAlreadyExist = -2001
 )
