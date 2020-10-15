@@ -26,4 +26,8 @@ const (
 
 	// DeleteClubMember
 	NotFoundClubMemberNoExist = -1723
+
+	// ChangeClubLeader
+	AlreadyClubLeader = -1801
+	ClubLeaderDuplicateForChange = -1802
 )
