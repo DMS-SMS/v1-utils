@@ -30,4 +30,7 @@ const (
 	// ChangeClubLeader
 	AlreadyClubLeader = -1801
 	ClubLeaderDuplicateForChange = -1802
+
+	// DeleteClubWithUUID
+	RecruitmentInProgressExist = -1901
 )
