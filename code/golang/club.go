@@ -37,4 +37,7 @@ const (
 	// RegisterRecruitment
 	RecruitmentInProgressAlreadyExist = -2001
 	EndPeriodOlderThanNow = -2002
+
+	// ModifyRecruitment
+	NotFoundCurrentRecruitmentNoExist = -1724
 )
