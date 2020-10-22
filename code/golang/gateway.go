@@ -8,4 +8,9 @@ const (
 	ExpiredJWTToken = -104
 	InvalidClaimsOfJWT = -105
 	UnsupportedAuthorization = -106
+
+	// about NotFound
+	UnsupportedContentType = -201
+	FailToBindRequestToStruct = -202
+	IntegrityInvalidRequest = -203
 )
