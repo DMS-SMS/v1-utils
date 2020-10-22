@@ -7,5 +7,5 @@ const (
 	InvalidSignatureOfJWT = -103
 	ExpiredJWTToken = -104
 	InvalidClaimsOfJWT = -105
-	InvalidTypeOfAuthorization = -106
+	UnsupportedAuthorization = -106
 )
