@@ -13,4 +13,8 @@ const (
 	UnsupportedContentType = -201
 	FailToBindRequestToStruct = -202
 	IntegrityInvalidRequest = -203
+
+	// about ServiceUnavailable
+	AvailableServiceNotExist = -301
+	CircuitBreakerOpen = -302
 )
