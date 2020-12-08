@@ -13,6 +13,7 @@ const (
 	UnsupportedContentType = -201
 	FailToBindRequestToStruct = -202
 	IntegrityInvalidRequest = -203
+	InvalidRequestPathVariable = -204
 
 	// about ServiceUnavailable
 	AvailableServiceNotExist = -301
