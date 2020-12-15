@@ -19,7 +19,7 @@ const (
 	StudentIDNoExist = -401
 	IncorrectStudentPWForLogin = -402
 	TeacherIDNoExist = -411
-	IncorrectTeacherPWForLogin = -411
+	IncorrectTeacherPWForLogin = -412
 	ParentIDNoExist = -421
 	IncorrectParentPWForLogin = -422
 	AdminIDNoExist = -431
