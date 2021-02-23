@@ -10,6 +10,7 @@ const (
 	// CreateNewTeacher
 	TeacherIDDuplicate = -201
 	TeacherPhoneNumberDuplicate = -202
+	TeacherClassDuplicate = -203
 
 	// CreateNewParent
 	ParentIDDuplicate = -301
