@@ -22,6 +22,7 @@ const (
 	TeacherIDNoExist = -411
 	IncorrectTeacherPWForLogin = -412
 	NotCertifiedTeacherAccount = -413
+	TeacherAccountMismatch = -414
 	ParentIDNoExist = -421
 	IncorrectParentPWForLogin = -422
 	AdminIDNoExist = -431
